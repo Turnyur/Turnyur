@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turnyur&label=Profile%20views&color=0e75b6&style=flat" alt="turnyur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turnyur" alt="turnyur" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turnyur&no-bg=true" alt="turnyur" /></a> </p>
 
-- 🔭 I’m currently working on **3D Computer Vision Reconstruction**
+- 🔭 I’m currently working on **Computer Vision 3D Reconstruction**
 
 - 🌱 I’m currently learning **Computer Vision and Machine Learning Frameworks**
 
