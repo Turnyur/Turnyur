@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Vision and Machine Learning Frameworks**
 
-- 📝 I regularly write articles on [Medium](Medium)
+<!---- 📝 I regularly write articles on [Medium](Medium) -->
 
 - 📫 How to reach me **chukwudi.umah@fau.de**
 
