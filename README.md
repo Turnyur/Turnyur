@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turnyur" alt="turnyur" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision 3D Reconstruction**
+- 🔭 I’m currently working on my Thesis @**Siemens**
+- I am also mastering Times Series, Computer Vision, and Natural Language Processing Frameworks
 
-- 🌱 I’m currently learning **Computer Vision and Machine Learning Frameworks**
 
-- 📝 I regularly write articles on [Medium](Medium)
 
-- 📫 How to reach me **chukwudi.umah@fau.de**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
